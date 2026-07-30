@@ -1,6 +1,6 @@
 # Kerry Zheng AI Engineer Portfolio
 
-这是 Kerry Zheng / 郑世杰的个人主页静态项目，适合直接部署到 GitHub Pages。
+这是 Kerry Zheng / Shijie Zheng 的个人主页静态项目，适合直接部署到 GitHub Pages。
 
 ## 页面内容
 
