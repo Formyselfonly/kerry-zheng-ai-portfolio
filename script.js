@@ -41,6 +41,9 @@ const translations = {
     "experience.ogTwo": "设计 MemoryRepository 机制，对对话历史进行结构化存储与管理，提升长期一致性和角色稳定性。",
     "experience.ogThree": "基于真实对话与角色扮演场景验证方案，相关研究成果发表为 SCI 论文。",
     "projects.title": "代表项目",
+    "projects.dafeiyuTitle": "大肥鱼鱼咖",
+    "projects.dafeiyuBody":
+      "基于 AstrBot 魔改的 QQ 官方 AI 机器人 SaaS：fish-console 用户中心、付费与接鱼绑定，托管对话引擎，免本地部署养鱼。",
     "projects.guardBody": "基于 Web3 反诈知识库和 AI 的 Telegram Bot，用于面试与交易相关风险识别。",
     "projects.viewProject": "查看项目",
     "projects.cryptoBody": "接入 TradingView 与 CoinGlass API，结合持仓管理、盈亏比和交易策略的投研机器人。",
@@ -113,6 +116,9 @@ const translations = {
     "experience.ogThree":
       "Validated the approach with real dialogue and roleplay scenarios, with the research published as an SCI paper.",
     "projects.title": "Selected Projects",
+    "projects.dafeiyuTitle": "Da Fei Yu Cafe",
+    "projects.dafeiyuBody":
+      "QQ official AI bot SaaS built on a customized AstrBot stack: fish-console, billing, bot onboarding, and a hosted chat engine—no local deploy.",
     "projects.guardBody":
       "A Telegram Bot powered by Web3 anti-fraud knowledge and AI, designed for interview and transaction risk recognition.",
     "projects.viewProject": "View Project",
